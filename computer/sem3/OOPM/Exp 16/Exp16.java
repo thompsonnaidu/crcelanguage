@@ -1,5 +1,6 @@
 import java.awt.*;
 import java.applet.*;
+// applet code for execution of the screen
 /*<applet code=Exp16 width=8000 height=10000>
 </applet>*/
 
